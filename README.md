@@ -13,7 +13,7 @@ This repository contains a selenium-cucumber-java project and libraries that con
 **Framework set up**
 
 Fork / Clone repository from https://github.com/Abbas4Hadoop/TestChallengeFramework or download zip
-Tests are written in the Cucumber framework using the Gherkin Syntax. More about Gherkin & Cucumber can be found at https://cucumber.io/docs/reference 
+Tests are written in the Cucumber framework using the Gherkin Syntax.
 
 Feature path: .\\src\\main\\java\\feature
 
