@@ -43,6 +43,7 @@ Scenario: Verify that recent search is cleared on clicking clear recent searches
 	And I enter values "bag" in search box 
 	When I select the item 
 	Then I clear the recent search
-The Page Object Design Pattern
+	
+**The Page Object Design Pattern**
 Within the web app's UI there are areas that the tests interact with. Instead of writing page objects within the step definitions file, I have placed them in “HomePage.java” file where one can manage all these web elements and methods together. Steps class interacts with page class to perform an action. This reduces the amount of duplicated code and means that if the UI changes, the fix need only be applied in one place.
 
