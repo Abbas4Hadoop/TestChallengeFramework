@@ -6,16 +6,17 @@ Installation (pre-requisites)
 1.	JDK 1.8+ (make sure Java class path is set)
 2.	Maven 
 3.	Eclipse
-4.	Eclipse Plugins for
-o	Maven
-o	Cucumber
+4.	Eclipse Plugins for Maven and Cucumber
 5.	Browser driver (compatible browser driver)
-Framework set up
-Fork / Clone repository from here or download zip and set it up in your local workspace.
-Develop automation scripts using BDD approach - Cucumber-Java
+
+**Framework set up**
+Fork / Clone repository from https://github.com/Abbas4Hadoop/TestChallengeFramework or download zip
 Tests are written in the Cucumber framework using the Gherkin Syntax. More about Gherkin & Cucumber can be found at https://cucumber.io/docs/reference 
+
 Feature path: .\\src\\main\\java\\feature
+
 Step Definitions: .\\src\\main\\java\\stepsDefinitions
+
 Feature: Test Search on Home Page
 
  @testCase_01
