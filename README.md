@@ -1,7 +1,7 @@
 # TestChallengeFramework
 Code repository for automation scripts to run Bunnings test challenge
 selenium-cucumber-java
-This repository contains a selenium-cucumber-java project and libraries that contains automation script for top 3 test cases for search bar on Bunnings website. Total time taken to complete the task is 1 hr and 30 min( 40 min for framework set up and 50 min for scripting test cases
+This repository contains a selenium-cucumber-java project and libraries that contains automation script for the top 3 test cases for search bar on Bunnings website. Total time taken to complete the task is 1 hr and 30 min( 40 min for framework set up and 50 min for scripting test cases
 
 **Installation (pre-requisites)**
 1.	JDK 1.8+ (make sure Java class path is set)
